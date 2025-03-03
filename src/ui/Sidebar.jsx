@@ -3,10 +3,6 @@ import Logo from "./Logo";
 import MainNav from "./MainNav";
 
 // T9P1yKnz21xLLcrw
-// https://dfxsvzgnwxhxmkllvkrt.supabase.co
-//
-
-// import { createClient } from '@supabase/supabase-js'
 
 const StyledSidebar = styled.aside`
   background-color: var(--color-grey-0);
